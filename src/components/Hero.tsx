@@ -54,7 +54,7 @@ export default function Hero() {
             <AnimatedText
               as="h1"
               text="Let Me Handle the Work So You Can Grow."
-              className="font-[family-name:var(--font-display)] text-5xl sm:text-6xl md:text-7xl lg:text-[68px] leading-[0.92] tracking-tight text-text"
+              className="font-[family-name:var(--font-display)] text-[40px] sm:text-6xl md:text-7xl lg:text-[68px] leading-[0.92] tracking-tight text-text"
             />
 
             <ScrollReveal delay={0.3}>
