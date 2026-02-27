@@ -9,10 +9,12 @@ import Tools from "@/components/Tools";
 import Testimonials from "@/components/Testimonials";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import FallingLeaves from "@/components/FallingLeaves";
 
 export default function Home() {
   return (
     <>
+      <FallingLeaves />
       <Navbar />
       <main>
         <Hero />

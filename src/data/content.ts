@@ -3,56 +3,56 @@ export const services = [
     icon: "Mail",
     title: "Admin & Email Management",
     description:
-      "Inbox Zero systems, email triage, correspondence drafting, calendar scheduling, and document organization.",
+      "Let me take your overflowing inbox off your plate. I'll build you an Inbox Zero system, triage your emails by priority, draft polished responses, and keep your calendar running like clockwork — so you can focus on growing your business.",
     featured: false,
   },
   {
     icon: "Users",
     title: "HR & Documentation",
     description:
-      "Employee records, onboarding docs, leave tracking, compliance reports, and personnel file management.",
+      "Hand me your employee records, onboarding docs, and compliance reports. I'll keep everything accurate, organized, and audit-ready — so you never lose sleep over missing paperwork.",
     featured: false,
   },
   {
     icon: "Headphones",
     title: "Customer Service",
     description:
-      "Client relations, inquiry handling, guest coordination, CRM management, and support ticket resolution.",
+      "Your clients deserve quick, warm responses. I'll handle inquiries, manage your CRM, and resolve tickets — so every customer feels valued and taken care of.",
     featured: false,
   },
   {
     icon: "Database",
     title: "Data Entry & Records",
     description:
-      "Database management, digital filing, spreadsheet maintenance, and 99% accuracy rate.",
+      "Stop wasting hours on spreadsheets. I'll manage your databases, maintain your files, and keep records at 99% accuracy — so your data is always clean and reliable.",
     featured: false,
   },
   {
     icon: "Calendar",
     title: "Calendar & Scheduling",
     description:
-      "Meeting coordination, timezone management, travel booking, and Calendly setup.",
+      "Never double-book again. I'll coordinate your meetings across timezones, set up your Calendly, and handle all travel arrangements — so your schedule works for you.",
     featured: false,
   },
   {
     icon: "Share2",
     title: "Social Media Support",
     description:
-      "Content scheduling, community engagement, analytics reporting, and platform management.",
+      "Grow your online presence without the stress. I'll schedule your content, engage your community, and track your analytics — so you show up consistently and build your brand.",
     featured: false,
   },
   {
     icon: "Sparkles",
     title: "AI-Powered Research & Content",
     description:
-      "Leveraging Claude, ChatGPT, and AI automation tools to produce high-quality drafts, research summaries, SOPs, and content calendars. Not just using AI \u2014 understanding when and how to apply it with human judgment.",
+      "Get the power of AI without the learning curve. I use Claude, ChatGPT, and automation tools to create high-quality drafts, research summaries, SOPs, and full content calendars in a fraction of the time. You get speed and quality — I handle the AI so you don't have to.",
     featured: true,
   },
   {
     icon: "Search",
     title: "Research & Reporting",
     description:
-      "Market research, competitor analysis, data compilation, executive summaries, and presentation preparation.",
+      "Need market insights or competitor intel? I'll dig deep, compile the data, and deliver executive-ready reports and presentations — so you can make decisions with confidence.",
     featured: false,
   },
 ];

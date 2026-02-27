@@ -1,4 +1,4 @@
-import { ArrowUp } from "lucide-react";
+import { ArrowUp, Heart } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -9,8 +9,8 @@ export default function Footer() {
             <p className="font-[family-name:var(--font-display)] text-gold text-lg tracking-[3px]">
               CAROLINE EDUARDO
             </p>
-            <p className="text-text-muted text-sm italic mt-1">
-              AI-Augmented Virtual Assistant
+            <p className="text-text-muted text-sm italic mt-1 flex items-center gap-1">
+              AI-Augmented Virtual Assistant <Heart className="w-3 h-3 text-gold inline" />
             </p>
           </div>
 
@@ -20,7 +20,7 @@ export default function Footer() {
             </p>
             <a
               href="#"
-              className="w-10 h-10 border border-border flex items-center justify-center text-text-muted hover:border-gold hover:text-gold transition-colors duration-300"
+              className="w-10 h-10 border border-border flex items-center justify-center text-text-muted rounded-full hover:border-gold hover:text-gold hover:bg-gold/5 hover:-translate-y-1 transition-all duration-300"
               aria-label="Back to top"
             >
               <ArrowUp size={16} />
